@@ -1,2 +1,2 @@
 # Nodemin
-Ready to use Admin Panel created with Node.js
+Ready to use Admin Panel package created with Node.js
